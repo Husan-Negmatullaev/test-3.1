@@ -1,1 +1,1 @@
-https://github.com/Husan-Negmatullaev/test-3.1
+https://husan-negmatullaev.github.io/test-3.1/index.html
