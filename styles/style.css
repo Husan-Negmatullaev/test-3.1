@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+}
+
+.page {
+}
+.page__order {
+}
+
+/* ============================================= */
+
+.order {
+}
+.order__container {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+.order__body {
+  margin: 30px 0px;
+}
+.order__table {
+}
+.order__content {
+  margin: 20px 0px;
+}
+.order__title {
+  font-size: 35px;
+  line-height: 1.2;
+  margin: 0px 0px 15px 0px;
+}
+.order__counts {
+  font-size: 28px;
+  line-height: 1.2;
+}
+.order__other-info {
+}
+.order__other-info p {
+  font-size: 20px;
+  line-height: 1.2;
+}
+.order__other-info span {
+  font-weight: 700;
+}
+.order__ordinary {
+}
+.order__groups {
+}
+.order__benefits {
+}
+.order__barcode {
+}
+
+/* ============================================= */
+
+.table-order {
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-order__haeder {
+  border-bottom: 1px solid #ccc;
+}
+.table-order__row {
+}
+.table-order__head {
+  font-weight: 700;
+}
+.table-order__col_data {
+  display: none;
+}
+
+.table-order__col,
+.table-order__head,
+.table-order__col-inner {
+  border: none;
+  text-align: left;
+  padding: 8px 12px;
+}
+.table-order__body {
+  border-bottom: 2px solid #ccc;
+}
